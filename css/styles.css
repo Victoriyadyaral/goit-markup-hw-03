@@ -138,7 +138,7 @@ overflow: hidden;
     letter-spacing: 0.02em;
 }
 
-.site-nav .item:not(:last-child) {
+.site-nav .nav-item:not(:last-child) {
     margin-right: 50px;
 }
 
@@ -156,7 +156,7 @@ overflow: hidden;
     margin-left: auto;
 }
 
-.contact .item + .item{
+.contact .nav-item + .nav-item{
     margin-left: 50px;
 }
 
@@ -415,4 +415,5 @@ overflow: hidden;
 
 .examples-description {
     padding: 20px 24px;
+    border: 1px solid transparent;
 }
