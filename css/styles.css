@@ -398,7 +398,6 @@ overflow: hidden;
 }
 
 .examples .title {
-    margin-top: 20px;
     margin-bottom: 4px;
     color: var(--primary-text-title);
     font-weight: 700;
@@ -408,9 +407,12 @@ overflow: hidden;
 }
 
 .examples .text {
-    margin-bottom: 20px;
     color: var(--primary-text-color);
     font-weight: 400;
     font-size: 16px;
     line-height: 1.875;
+}
+
+.examples-description {
+    padding: 20px 24px;
 }
