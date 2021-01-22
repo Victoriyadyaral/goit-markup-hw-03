@@ -279,8 +279,14 @@ overflow: hidden;
     background-color: var(--second-main-background);
 }
 
-.name {
+.our-team-list-content {
     margin-top: 30px;
+    margin-right: 59px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+}
+
+.name {    
     margin-bottom: 10px;
     color: var(--primary-text-title);
     font-weight: 500;
@@ -289,8 +295,7 @@ overflow: hidden;
     text-align: center;
 }
 
-.job {
-    margin-bottom: 30px;
+.job {    
     font-weight: 400;
     font-size: 16px;
     line-height: 1.188;
